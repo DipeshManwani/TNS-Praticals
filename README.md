@@ -1,1 +1,1 @@
-# TNS-Praticals
+# TNS-DSA-Pratical
